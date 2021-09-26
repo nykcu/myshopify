@@ -283,6 +283,7 @@ a.product__text {
 .product__title {
   word-break: break-word;
   margin-bottom: 1.5rem;
+  color: red;
 }
 
 .product__title + .product__text.caption-with-letter-spacing {
