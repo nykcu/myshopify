@@ -46,7 +46,6 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
         "description",
         "share"
       ]
